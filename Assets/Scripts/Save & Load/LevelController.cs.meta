@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 0f4d9f488f84f9345a9d76e17fc0ddc3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - xpBar: {instanceID: 0}
+  - healthBar: {instanceID: 0}
+  - xpLevel: {instanceID: 0}
+  - xpBarText: {instanceID: 0}
+  - healthBarText: {instanceID: 0}
+  - nextLevelAudio: {instanceID: 0}
+  - loadPanel: {instanceID: 0}
+  - mainGui: {instanceID: 0}
+  - playerStatus: {instanceID: 0}
+  - progressBar: {instanceID: 0}
+  - achievementPopup: {fileID: 6527399442845196437, guid: e2f4d649aa9ad4e469d13d26b383ce4b,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

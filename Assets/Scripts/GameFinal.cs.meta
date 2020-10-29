@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cc6d7b516194bb54baa19b5e48ad2e32
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - buttonText: {instanceID: 0}
+  - achievementPopup: {fileID: 6527399442845196437, guid: e2f4d649aa9ad4e469d13d26b383ce4b,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
