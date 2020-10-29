@@ -28,22 +28,22 @@ Bunları yaparsanız *Deneyim Puanı* kazanırsınız. Deneyim puanlarınız bir
 
 **Oyun Kontrolcüsü:**
 - **PlayStation4 Kontrolcüsü**
-	-- **SOL ÇUBUK:** Sola ve Sağa Hareket
-	-- **X:** Zıpla
-	-- ***DAİRE* VEYA *OPTIONS*:** Oyunu Duraklat
-	--- **KARE:** Hafif Saldırı
-	--**ÜÇGEN:** Ağır Saldırı
+	- **SOL ÇUBUK:** Sola ve Sağa Hareket
+	- **X:** Zıpla
+	- ***DAİRE* VEYA *OPTIONS*:** Oyunu Duraklat
+	- **KARE:** Hafif Saldırı
+	- **ÜÇGEN:** Ağır Saldırı
 	
 - **XBOX Kontrolcüsü:**
-	-- **SOL ÇUBUK:** Sola ve Sağa Hareket
-	-- **A:** Zıpla
-	-- ***B* VEYA *START*:** Oyunu Duraklat
-	-- **X:** Hafif Saldırı
-	-- **Y:** Ağır Saldırı
+	- **SOL ÇUBUK:** Sola ve Sağa Hareket
+	- **A:** Zıpla
+	- ***B* VEYA *START*:** Oyunu Duraklat
+	- **X:** Hafif Saldırı
+	- **Y:** Ağır Saldırı
 #
 # Oyun Hakkında Teknik Detaylar:
 - **Kullanılan Oyun Motoru :** Unity
 - **Kullanılan Programlama Dili :** C# (Scripting)
 - **Kullanılan Grafik API :** 
-	-- DirectX 11 (Windows)
-	-- OpenGL ES (Android)
+	- DirectX 11 (Windows)
+	- OpenGL ES (Android)
